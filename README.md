@@ -18,7 +18,7 @@ I’m just starting out on my programming adventure, learning C step by step. Th
 
 - Language: C  
 - Online playground: [Programiz Online C Compiler](https://www.programiz.com/c-programming/online-compiler/)
-- offline playground:[VS Code]
+- offline playground: VS Code
 - My GitHub space to save and share my journey
 
 ---

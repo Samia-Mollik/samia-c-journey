@@ -29,4 +29,4 @@ I believe with patience and practice, I’ll keep getting better — one line of
 
 ---
 
-> “Every expert was once a beginner.”  
+

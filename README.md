@@ -1,4 +1,4 @@
-# 🌱 My C Programming Journey
+#  My C Programming Journey
 
 Hi there!  
 I’m just starting out on my programming adventure, learning C step by step. This is where I keep all my practice codes and little projects as I explore and grow.
